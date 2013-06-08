@@ -288,7 +288,7 @@ isn’t identical because of browser security policies.
 All browsers do support the `<object>` tag. Without changing browser security
 policies, `<img>` alone won’t work yet. We can leverage the `<object>` tag.
 
-### With the <object> Tag
+### With the `<object>` Tag
 
 The `<object>` element allows an external resource to be treated as an image. It
 can take care of the browser security drawbacks we see with `<img>`, disallowing
@@ -316,7 +316,7 @@ of the `<object>` tag, rather than the viewport.
 If you look at an [SVG being pulled in as the <object> data][19], you’ll see
 that it works in all browsers that support SVG.
 
-### With the <svg> Tag
+### With the `<svg>` Tag
 
 Instead of including an external SVG file, you can also [include the svg as
 inline content with the <svg> tag][20]. The benefit is no additional http
