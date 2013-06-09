@@ -319,7 +319,7 @@ that it works in all browsers that support SVG.
 ### With the `<svg>` Tag
 
 Instead of including an external SVG file, you can also [include the svg as
-inline content with the <svg> tag][20]. The benefit is no additional http
+inline content with the `<svg>` tag][20]. The benefit is no additional http
 request for an external .svg file.
 
 Unfortunately, Chrome and Safari render the SVG as a full screen block display
